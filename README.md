@@ -88,7 +88,7 @@ Cada alumne lliurarà a la professora:
 1. L'URL del repositori del grup.
 2. L'enllaç a la seva pròpia pull request.
 3. L'enllaç a la pull request que ha revisat segons el torn assignat.
-4. Un document individual en PDF o DOCX amb captures i explicacions, seguint la [plantilla d'evidències](PLANTILLA_EVIDENCIES.md).
+4. Un document individual en PDF o DOCX amb captures i explicacions, seguint la [plantilla d'evidències en Markdown](PLANTILLA_EVIDENCIES.md) o la [versió DOCX](PLANTILLA_EVIDENCIES.docx).
 
 Anomena el document `EX02_Cognoms_UsuariGitHub.pdf` (o `.docx`). No incloguis contrasenyes, tokens ni cap altra dada privada a les captures.
 

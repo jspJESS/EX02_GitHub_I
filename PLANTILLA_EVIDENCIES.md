@@ -56,9 +56,11 @@ Un cop creada la pull request, demana la revisió del company o companya que ten
 2. Selecciona el compte de GitHub del company o companya assignat i fes clic a **Request**.
 3. Comprova que el seu nom apareix com a revisor/a sol·licitat/da.
 
-**Captura:** el company o companya assignat apareix a **Reviewers**.
+**Captura d'assignació del company o companya:** ha de mostrar el seu compte a **Reviewers**.
 
-**Captura:** la revisió que has rebut i la pull request que has revisat segons el torn.
+**Captura 5A:** la revisió que has rebut del company o companya assignat.
+
+**Captura 5B:** la pull request que has revisat segons el torn.
 
 **Explicació:** quin comentari hi has deixat? Què has fet amb els comentaris que has rebut?
 
