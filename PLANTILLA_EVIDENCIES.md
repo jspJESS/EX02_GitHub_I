@@ -2,6 +2,8 @@
 
 Copia aquesta estructura en un document Word o similar i desa'l en PDF o DOCX per lliurar-lo a la professora. Inclou captures llegibles i una explicació breu per a cadascuna.
 
+![Infografia del flux de treball de l'examen](flux-treball.jpg)
+
 ## Dades de l'examen
 
 - **Nom i cognoms:**
@@ -48,7 +50,15 @@ Copia aquesta estructura en un document Word o similar i desa'l en PDF o DOCX pe
 
 ## 5. Revisió entre companys
 
-**Captura:** la revisió que has rebut del company o companya assignat i la pull request que has revisat segons el torn.
+Un cop creada la pull request, demana la revisió del company o companya que tens a la dreta:
+
+1. Al panell de la dreta, busca **Reviewers**.
+2. Selecciona el compte de GitHub del company o companya assignat i fes clic a **Request**.
+3. Comprova que el seu nom apareix com a revisor/a sol·licitat/da.
+
+**Captura:** el company o companya assignat apareix a **Reviewers**.
+
+**Captura:** la revisió que has rebut i la pull request que has revisat segons el torn.
 
 **Explicació:** quin comentari hi has deixat? Què has fet amb els comentaris que has rebut?
 
