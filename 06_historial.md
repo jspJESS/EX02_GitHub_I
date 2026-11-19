@@ -24,3 +24,6 @@ Escriu o enganxa l'ordre que has fet servir per revisar l'historial de la teva b
 ```bash
 git log --oneline
 ```
+## Com fer un git clone
+
+per fer un git clone en la terminar has de posar : git clone [URL DEL REPOSITORI]
