@@ -45,3 +45,5 @@ Canviar a una branca que ja existeix:
 Quina diferència hi ha entre crear una branca i canviar-te a una branca que ja existeix?
 
 **Resposta:** Crear una branca significa fer una nova línia de treball dins del projecte. En canvi, canviar-te a una branca existent significa entrar en una branca que ja s'havia creat per continuar treballant-hi, sense crear-ne una de nova.
+
+Canvia alguna coseta mes, corregit.
