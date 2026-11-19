@@ -43,3 +43,6 @@ git commit -m "Actualitzar el README"
 Quina diferència hi ha entre un fitxer modificat i un fitxer preparat per al commit?
 
 Un fitxer modificat és aquell en què hem fet canvis, però encara no està preparat per al commit. En canvi, un fitxer preparat és aquell que ja hem afegit amb `git add` i està llest per guardar-se amb `git commit`.
+
+
+💻
