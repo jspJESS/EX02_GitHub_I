@@ -1,6 +1,6 @@
 # 5. Revisió entre companys
 
-**Responsable:** Xavi López
+**Responsable:** XAVI LOPEZ
 
 ## Tres opcions de revisió
 
