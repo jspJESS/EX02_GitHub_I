@@ -5,35 +5,36 @@
 
 ## Conceptes
 
-- **Què vol dir `origin`?**  
-  És el nom que Git dona normalment al repositori remot principal, com per exemple un repositori de GitHub.
+- **Què significa `origin`?**  
+  És el nom que Git utilitza habitualment per identificar el repositori remot principal, que normalment es troba a GitHub.
 
-- **Què fa `git push`?**  
-  Serveix per pujar els commits del nostre repositori local al repositori remot.
+- **Per a què serveix `git push`?**  
+  Aquesta ordre permet enviar els commits que hem fet al nostre repositori local cap al repositori remot.
 
-- **Què fa `git pull`?**  
-  Descarrega els canvis del repositori remot i els integra a la nostra branca local.
+- **Quina funció té `git pull`?**  
+  Serveix per descarregar les actualitzacions del repositori remot i incorporar-les a la nostra branca local.
 
-- **Què fa `git fetch` i en què es diferencia de `git pull`?**  
-  `git fetch` descarrega els canvis del repositori remot, però no els aplica directament a la nostra branca. En canvi, `git pull` els descarrega i també els integra automàticament.
+- **Què fa `git fetch` i quina diferència té amb `git pull`?**  
+  `git fetch` descarrega els canvis del repositori remot, però no els incorpora directament a la branca en què estem treballant. En canvi, `git pull` descarrega aquests canvis i els integra automàticament.
 
 ## Ordres per pujar una branca
 
-Per pujar per primera vegada a `origin` la meva branca `BrancaPauC`, utilitzarem aquesta ordre:
+Per pujar per primera vegada la meva branca `BrancaPauC` al repositori remot `origin`, hem d'executar la següent ordre:
 
     git push -u origin BrancaPauC
 
-L'opció `-u` serveix per vincular la branca local amb la branca remota. D'aquesta manera, les pròximes vegades podrem utilitzar simplement `git push` o `git pull` sense haver d'especificar el repositori i la branca.
+L'opció `-u` permet establir una connexió entre la nostra branca local i la branca remota. Això facilita les pròximes actualitzacions, ja que podrem fer servir `git push` i `git pull` sense haver d'indicar cada vegada el nom del repositori i de la branca.
 
 ## Si una altra persona ja ha actualitzat main
 
-Si una altra persona ha fet canvis a la branca `main` del repositori remot, primer ens situarem a la nostra branca local `main` i després descarregarem els canvis.
+Si un company ha pujat nous canvis a la branca `main` del repositori remot, haurem d'actualitzar la nostra branca local per tenir la versió més recent.
+
+Per fer-ho, executarem aquestes ordres:
 
     git switch main
     git pull origin main
 
-- **`git switch main`:** ens permet canviar a la branca `main` del nostre repositori local.
-- **`git pull origin main`:** descarrega els últims canvis de la branca `main` remota i els integra a la nostra branca local.
+- **`git switch main`:** serveix per situar-nos a la branca local `main`.
+- **`git pull origin main`:** descarrega els canvis de la branca `main` del repositori remot i els incorpora a la nostra branca local.
 
-Així tindrem la branca `main` actualitzada amb els canvis que hagin fet els altres companys.
-
+D'aquesta manera, tindrem la branca `main` actualitzada amb les últimes modificacions que hagin fet els altres membres del grup.
