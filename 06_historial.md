@@ -1,8 +1,7 @@
 # 6. Historial i diferències
 
-**Responsable:** alumne/a 6
+**Responsable:** Maximo San Martino Alvarez
 
-Completa aquest apartat amb les teves paraules.
 
 ## Ordres per consultar els canvis
 
