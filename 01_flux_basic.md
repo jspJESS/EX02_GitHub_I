@@ -46,3 +46,4 @@ Un fitxer modificat és aquell en què hem fet canvis, però encara no està pre
 
 
 💻
+💻
