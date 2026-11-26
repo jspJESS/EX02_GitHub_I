@@ -31,4 +31,4 @@ Inclou l'enllaç de la teva pull request de l'examen i explica en dues o tres fr
 - **Resum:** 
 He afegit i completat els apartats que m'havien assignat a l'examen. També he revisat el contingut per assegurar-me que la informació és correcta i està ben presentada.
 
-hola
+.
