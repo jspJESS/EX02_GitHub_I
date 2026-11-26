@@ -1,6 +1,6 @@
 # 4. Pull requests
 
-**Responsable:** alumne/a 4
+**Responsable:** Martí Codony Sacristan
 
 Completa aquest apartat amb les teves paraules.
 
