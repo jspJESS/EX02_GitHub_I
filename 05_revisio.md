@@ -1,28 +1,11 @@
-# 5. Revisió entre companys
+5. Revisió entre companys
 
-**Responsable:** alumne/a 5
+Responsable: XAVI LOPEZ
 
-Completa aquest apartat amb les teves paraules.
+La revisió de l'examen
+Pull request que he revisat: Enllaç al Pull Request de GitHub.
+Alumne/a que n'és l'autor/a: Pau Constaneu
+Comentari que hi he deixat: He revisat els canvis i he comprovat que el fitxer modificat correspon a l'activitat.
+He aprovat o he demanat canvis? Per què?
 
-## Tres opcions de revisió
-
-A GitHub, explica la diferència entre:
-
-- **Comment:**
-- **Approve:**
-- **Request changes:**
-
-## Com fer una bona revisió
-
-Escriu tres coses que comprovaries en revisar la pull request d'un company o companya.
-
-1. [Comprovació]
-2. [Comprovació]
-3. [Comprovació]
-
-## La revisió de l'examen
-
-- **Pull request que he revisat:**
-- **Alumne/a que n'és l'autor/a:**
-- **Comentari que hi he deixat:**
-- **He aprovat o he demanat canvis? Per què?**
+He aprovat els canvis perquè el company ha modificat correctament el fitxer assignat, els canvis compleixen els requisits de l'activitat i la branca de destinació és main.
