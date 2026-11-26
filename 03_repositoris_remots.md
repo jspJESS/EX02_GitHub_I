@@ -38,3 +38,7 @@ Per fer-ho, executarem aquestes ordres:
 - **`git pull origin main`:** descarrega els canvis de la branca `main` del repositori remot i els incorpora a la nostra branca local.
 
 D'aquesta manera, tindrem la branca `main` actualitzada amb les últimes modificacions que hagin fet els altres membres del grup.
+
+# Modificació practica
+
+Aquesta modificacio es per realitzar un canvi en l'arxiu per validar l'activitat.
