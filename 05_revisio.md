@@ -1,27 +1,11 @@
-# 5. Revisió entre companys
+5. Revisió entre companys
 
-**Responsable:** XAVI LOPEZ
+Responsable: XAVI LOPEZ
 
-## Tres opcions de revisió
+La revisió de l'examen
+Pull request que he revisat: Enllaç al Pull Request de GitHub.
+Alumne/a que n'és l'autor/a: Pau Constaneu
+Comentari que hi he deixat: He revisat els canvis i he comprovat que el fitxer modificat correspon a l'activitat.
+He aprovat o he demanat canvis? Per què?
 
-- **Comment:** Serveix per deixar un comentari sobre els
-  canvis sense aprovar-los ni demanar correccions.
-- **Approve:** Serveix per aprovar els canvis quan
-  estan correctes.
-- **Request changes:** Serveix per demanar al company
-  que corregeixi algun error abans de fer el merge.
-
-## Com fer una bona revisió
-
-1. Comprovar que el company ha modificat el fitxer assignat.
-2. Comprovar que els canvis són correctes i compleixen
-   el que demana l'activitat.
-3. Comprovar que la branca de destinació és main.
-
-## La revisió de l'examen
-
-- **Pull request que he revisat:** [Enllaç]
-- **Alumne/a que n'és l'autor/a:** [Nom del company]
-- **Comentari que hi he deixat:** [Comentari real]
-- **He aprovat o he demanat canvis? Per què?**
-  [Explica la decisió i el motiu]
+He aprovat els canvis perquè el company ha modificat correctament el fitxer assignat, els canvis compleixen els requisits de l'activitat i la branca de destinació és main.
