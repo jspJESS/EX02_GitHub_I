@@ -26,4 +26,4 @@ git log --oneline
 ```
 ## Com fer un git clone
 
-per fer un git clone en la terminar has de posar : git clone [URL DEL REPOSITORI]
+per fer un git clone en la terminal has de posar : git clone [URL DEL REPOSITORI]
